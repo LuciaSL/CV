@@ -1,0 +1,42 @@
+h1 {font-weight: bold;
+    text-align: center;
+}
+
+#actor {text-align: center;
+        font-weight: lighter;
+}
+
+h2 {font-weight: lighter;
+}
+
+p {font-weight: light;}
+
+* {font-family: 'Roboto', sans-serif;
+}
+
+h4 {font-weight: lighter;
+}
+
+#col1 {color: white;
+       width: 25%;
+       padding: 5%;
+}
+
+#col2 {background-color: lightgray;
+       padding: 5% 10%;
+       
+}
+
+.column {
+    float: left;
+    width: 40%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  i {margin-right: 3%;
+  }
