@@ -17,6 +17,9 @@ p {font-weight: light;}
 h4 {font-weight: lighter;
 }
 
+ul {padding: 8%;
+}
+
 #col1 {color: white;
        width: 20%;
        padding: 5%;
@@ -25,12 +28,16 @@ h4 {font-weight: lighter;
 
 #col2 {background-color: lightgray;
        padding: 5%;
+       padding-right: 2%;
        padding-bottom: 14%;
 }
 
 .columna { float: left;
-          width: 40%;
+          width: 50%;
 }
+
+.hide{display:none;}
+.show{display:block;}
   
   
 .row:after {
